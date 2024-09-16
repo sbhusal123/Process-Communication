@@ -21,7 +21,7 @@ def add_item(key, data):
 
 
 if __name__ == "__main__":
-    HOST = 'localhost'
+    HOST = '0.0.0.0'
     PORT = 3456
     PASSWORD = b'password'
     manager = BaseManager((HOST, PORT), PASSWORD)
