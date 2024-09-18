@@ -1,6 +1,6 @@
 # Remote Process Communication
 
-What we are basically doing is communicating with a remote object over a network.
+What we are basically doing is communicating with a remote process over a network.
 
 [Reference Here](https://docs.python.org/3/library/multiprocessing.html#managers)
 
